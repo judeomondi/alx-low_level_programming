@@ -84,4 +84,14 @@ Use the character # to print the triangle
 
 Task 11:
 
+The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic
 
+Task 12:
+
+Write a function that prints an integer.
+
+Prototype: void print_number(int n);
+You can only use _putchar function to print
+You are not allowed to use long
+You are not allowed to use arrays or pointers
+You are not allowed to hard-code special values
