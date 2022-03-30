@@ -17,10 +17,10 @@ int helper(int i, int n)
 	return (helper(i + 1, n));
 }
 /**
- *  *_sqrt_recursion - find a square root of an integer.
- *   *@n: integer.
- *    *Return: square root (n).
- *     */
+ *_sqrt_recursion - find a square root of an integer.
+ *@n: integer.
+ *Return: square root (n).
+ */
 
 int _sqrt_recursion(int n)
 {
