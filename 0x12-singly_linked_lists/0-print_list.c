@@ -5,7 +5,7 @@
  * print_list - Print elements of a singly linked list.
  * @h: Pointer to a list.
  * Return: Integer.
- */
+ **/
 
 size_t print_list(const list_t *h)
 {
